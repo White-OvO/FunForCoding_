@@ -38,3 +38,29 @@ this code is a guessing number can you guess the right number?
 
 
 ![Screen Shot 2023-08-01 at 8 54 13 AM](https://github.com/White-OvO/FunForCoding_/assets/120700219/6568e535-a9be-4fc4-8198-6e0df2bc33c0)
+
+
+
+
+
+
+
+## TYPING (package)
+
+## average of arrays
+- The code finds the average of five numbers in Java.
+- It makes an array and fills it with numbers.
+- It prints the array and the average.
+
+![Screen Shot 2023-08-01 at 8 57 41 AM](https://github.com/White-OvO/FunForCoding_/assets/120700219/7e584cda-c844-42c3-a034-09e8cf124e93)
+
+
+## payStubNetPay
+
+It declares variables for the hourly rate, hours worked, tax rate, gross pay, and net pay. It assigns values to some of the variables using literals. It calculates the gross pay by multiplying the hours worked by the hourly rate. It calculates the net pay by subtracting the tax from the gross pay. It prints the gross pay and net pay using System.out.println statements. It also calculates and prints two expressions using arithmetic operators and casting. The code uses comments to explain some parts of the code.
+
+![Screen Shot 2023-08-01 at 8 59 44 AM](https://github.com/White-OvO/FunForCoding_/assets/120700219/ca7c9531-f653-4c64-af81-f7fb9d42a76b)
+
+
+
+
