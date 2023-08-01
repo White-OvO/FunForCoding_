@@ -6,7 +6,7 @@
 
 this package has alot of cool math and writing languges that i came across reading about java, there are to many be my guest and check each one of them as you like.
 
-##_code01010.java
+## _code01010.java
 
 [ENDLESS LOOPS OF 01010101101001 W COLOR]
 
@@ -14,7 +14,7 @@ this package has alot of cool math and writing languges that i came across readi
 
 
 
-##D2_ARRAYS
+## D2_ARRAYS
 
 
 The code makes and uses two-dimensional arrays in Java.
@@ -24,7 +24,7 @@ It uses comments to describe the code.
 ![Screen Shot 2023-08-01 at 8 50 38 AM](https://github.com/White-OvO/FunForCoding_/assets/120700219/9d58919e-b41d-4051-9884-4874283cb7a7)
 
 
-##FlipWordsReversed
+## FlipWordsReversed
 
 this is a word reversion of a word 
 
